@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Screenshot
+![Image 2](https://github.com/ano-ny-mous/Smart-Watch-Product-Page/assets/91519560/c977f671-e9d5-481c-a860-d38027b503bf)
 
+
+# Getting Started with Create React App!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
